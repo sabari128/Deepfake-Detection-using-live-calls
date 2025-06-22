@@ -1,4 +1,4 @@
-# Deepfake Detection Demo
+# Deepfake Detection 
 
 This project is a demo application for detecting deepfakes in live video calls using a Streamlit web interface. It includes placeholder detection logic and a training script for a MobileNetV2-based deepfake classifier.
 
